@@ -1,2 +1,0 @@
-# CompTIA-hardware
-Assignment
